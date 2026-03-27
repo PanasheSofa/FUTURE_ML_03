@@ -1,7 +1,7 @@
 # 📄 Resume / Candidate Screening System
 ### Machine Learning Internship — Future Interns | Task 3
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-NLP-orange?logo=scikit-learn)
 ![NLTK](https://img.shields.io/badge/NLTK-Text%20Processing-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
